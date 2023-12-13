@@ -1,2 +1,7 @@
-# hello-proskomma
-Extremely basic demo of Proskomma with a GUI
+# Hello Proskomma
+
+```
+npm install
+npm start
+```
+
